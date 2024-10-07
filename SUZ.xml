@@ -160,51 +160,6 @@
                 <param name="Розмір">50-52</param>
                 <param name="Колір">Чорний</param>
             </offer>
-            <offer id="17486" available="true" group_id="666555">
-                <name>Жіночий спортивний костюм Black Wear #594-SUZ - Зелений</name>
-                <vendorCode>#594-SUZ</vendorCode>
-                <currencyId>UAH</currencyId>
-                <categoryId>000111222</categoryId>
-                <oldprice>560</oldprice>
-                <price>1499</price>
-                <picture>https://i.ibb.co/KFD2WQG/image.jpg</picture>
-                <vendor>Black Wear</vendor>
-                <description><![CDATA[Дуже якісний фліс, тканина мʼяка, приємна, тепла, не кашлатиться, не линяє, костюм мрія.]]></description>
-                <quantity_in_stock>50</quantity_in_stock>
-                <model>#594-SUZ</model>
-                <param name="Розмір">42-44</param>
-                <param name="Колір">Зелений</param>
-            </offer>
-            <offer id="17487" available="true" group_id="666555">
-                <name>Жіночий спортивний костюм Black Wear #594-SUZ - Зелений</name>
-                <vendorCode>#594-SUZ</vendorCode>
-                <currencyId>UAH</currencyId>
-                <categoryId>000111222</categoryId>
-                <oldprice>560</oldprice>
-                <price>1499</price>
-                <picture>https://i.ibb.co/KFD2WQG/image.jpg</picture>
-                <vendor>Black Wear</vendor>
-                <description><![CDATA[Дуже якісний фліс, тканина мʼяка, приємна, тепла, не кашлатиться, не линяє, костюм мрія.]]></description>
-                <quantity_in_stock>50</quantity_in_stock>
-                <model>#594-SUZ</model>
-                <param name="Розмір">46-48</param>
-                <param name="Колір">Зелений</param>
-            </offer>
-            <offer id="17488" available="true" group_id="666555">
-                <name>Жіночий спортивний костюм Black Wear #594-SUZ - Зелений</name>
-                <vendorCode>#594-SUZ</vendorCode>
-                <currencyId>UAH</currencyId>
-                <categoryId>000111222</categoryId>
-                <oldprice>560</oldprice>
-                <price>1499</price>
-                <picture>https://i.ibb.co/KFD2WQG/image.jpg</picture>
-                <vendor>Black Wear</vendor>
-                <description><![CDATA[Дуже якісний фліс, тканина мʼяка, приємна, тепла, не кашлатиться, не линяє, костюм мрія.]]></description>
-                <quantity_in_stock>50</quantity_in_stock>
-                <model>#594-SUZ</model>
-                <param name="Розмір">50-52</param>
-                <param name="Колір">Зелений</param>
-            </offer>
         </offers>
     </shop>
 </yml_catalog>
