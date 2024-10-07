@@ -33,8 +33,8 @@
                         </thead>
                         <tbody class="tbody">
                             <tr class="tbody_tr">
-                                <td class="tbody_first-td">Розмір</td>
-                                <td class="tbody_td">42-44</td>
+                                <td class="tbody_first-td"><strong>Розмір</strong></td>
+                                <td class="tbody_td"><strong>42-44</strong></td>
                             </tr>
                             <tr class="tbody_tr">
                                 <td class="tbody_first-td">Обхват грудей</td>
@@ -55,72 +55,6 @@
                             <tr class="tbody_tr">
                                 <td class="tbody_first-td">Довжина рукава</td>
                                 <td class="tbody_td">45 см</td>
-                            </tr>
-                        </tbody>
-                    </table>
-                    <table class="table" cellspacing="0">
-                        <thead class="thead">
-                            <tr class="thead_tr">
-                                <td colspan="2" class="thead_td">Заміри (фактичні заміри можуть відрізнятись +- 2 см)</td>
-                            </tr>
-                        </thead>
-                        <tbody class="tbody">
-                            <tr class="tbody_tr">
-                                <td class="tbody_first-td">Розмір</td>
-                                <td class="tbody_td">46-48</td>
-                            </tr>
-                            <tr class="tbody_tr">
-                                <td class="tbody_first-td">Обхват грудей</td>
-                                <td class="tbody_td">96 см</td>
-                            </tr>
-                            <tr class="tbody_tr">
-                                <td class="tbody_first-td">Обхват талії</td>
-                                <td class="tbody_td">84 см</td>
-                            </tr>
-                            <tr class="tbody_tr">
-                                <td class="tbody_first-td">Обхват бедер</td>
-                                <td class="tbody_td">110 см</td>
-                            </tr>
-                            <tr class="tbody_tr">
-                                <td class="tbody_first-td">Довжина виробу</td>
-                                <td class="tbody_td">62 см</td>
-                            </tr>
-                            <tr class="tbody_tr">
-                                <td class="tbody_first-td">Довжина рукава</td>
-                                <td class="tbody_td">46 см</td>
-                            </tr>
-                        </tbody>
-                    </table>
-                    <table class="table" cellspacing="0">
-                        <thead class="thead">
-                            <tr class="thead_tr">
-                                <td colspan="2" class="thead_td">Заміри (фактичні заміри можуть відрізнятись +- 2 см)</td>
-                            </tr>
-                        </thead>
-                        <tbody class="tbody">
-                            <tr class="tbody_tr">
-                                <td class="tbody_first-td">Розмір</td>
-                                <td class="tbody_td">50-52</td>
-                            </tr>
-                            <tr class="tbody_tr">
-                                <td class="tbody_first-td">Обхват грудей</td>
-                                <td class="tbody_td">100 см</td>
-                            </tr>
-                            <tr class="tbody_tr">
-                                <td class="tbody_first-td">Обхват талії</td>
-                                <td class="tbody_td">88 см</td>
-                            </tr>
-                            <tr class="tbody_tr">
-                                <td class="tbody_first-td">Обхват бедер</td>
-                                <td class="tbody_td">114 см</td>
-                            </tr>
-                            <tr class="tbody_tr">
-                                <td class="tbody_first-td">Довжина виробу</td>
-                                <td class="tbody_td">64 см</td>
-                            </tr>
-                            <tr class="tbody_tr">
-                                <td class="tbody_first-td">Довжина рукава</td>
-                                <td class="tbody_td">48 см</td>
                             </tr>
                         </tbody>
                     </table>
