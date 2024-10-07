@@ -1,0 +1,80 @@
+<yml_catalog date="2024-10-07">
+    <shop>
+        <name>Black Wear</name>
+        <url>http://blackwear.com.ua</url>
+        <currencies>
+            <currency id="UAH" rate="1"/>
+        </currencies>
+        <categories>
+            <category id="000111222" parentId="54321">Жіночі спортивні костюми</category>
+        </categories>
+        <offers>
+            <offer id="17483" available="true" group_id="666555">
+                <vendorCode>#530-SUZ</vendorCode>
+                <currencyId>UAH</currencyId>
+                <categoryId>000111222</categoryId>
+                <oldprice>560</oldprice>
+                <price>1499</price>
+                <picture>https://i.ibb.co/n0Ldh0G/image.jpg</picture>
+                <picture>https://i.ibb.co/Trx48Mj/photo-2024-10-07-12-38-41.jpg</picture>
+                <picture>https://i.ibb.co/R2cJP0b/photo-2024-10-07-12-38-44.jpg</picture>
+                <picture>https://i.ibb.co/Jqs4kFr/photo-2024-10-07-12-40-07.jpg</picture> <!-- Замери -->
+                <vendor>Black Wear</vendor>
+                <description>Дуже якісний фліс, тканина мʼяка, приємна, тепла, не кашлатиться, не линяє, костюм мрія🤍</description>
+                <quantity_in_stock>50</quantity_in_stock>
+                <model>#530-SUZ</model>
+                <param name="Розмір">42-44</param>
+                <param name="Колір">Чорний</param>
+                <param name="Обхват грудей">94 см</param>
+                <param name="Обхват талії">80 см</param>
+                <param name="Обхват бедер">106 см</param>
+                <param name="Довжина виробу">60 см</param>
+                <param name="Довжина рукава">45 см</param>
+            </offer>
+            <offer id="17484" available="true" group_id="666555">
+                <vendorCode>#530-SUZ</vendorCode>
+                <currencyId>UAH</currencyId>
+                <categoryId>000111222</categoryId>
+                <oldprice>560</oldprice>
+                <price>1499</price>
+                <picture>https://i.ibb.co/n0Ldh0G/image.jpg</picture>
+                <picture>https://i.ibb.co/Trx48Mj/photo-2024-10-07-12-38-41.jpg</picture>
+                <picture>https://i.ibb.co/R2cJP0b/photo-2024-10-07-12-38-44.jpg</picture>
+                <picture>https://i.ibb.co/Jqs4kFr/photo-2024-10-07-12-40-07.jpg</picture> <!-- Замери -->
+                <vendor>Black Wear</vendor>
+                <description>Дуже якісний фліс, тканина мʼяка, приємна, тепла, не кашлатиться, не линяє, костюм мрія🤍</description>
+                <quantity_in_stock>50</quantity_in_stock>
+                <model>#530-SUZ</model>
+                <param name="Розмір">46-48</param>
+                <param name="Колір">Чорний</param>
+                <param name="Обхват грудей">96 см</param>
+                <param name="Обхват талії">84 см</param>
+                <param name="Обхват бедер">110 см</param>
+                <param name="Довжина виробу">62 см</param>
+                <param name="Довжина рукава">46 см</param>
+            </offer>
+            <offer id="17485" available="true" group_id="666555">
+                <vendorCode>#530-SUZ</vendorCode>
+                <currencyId>UAH</currencyId>
+                <categoryId>000111222</categoryId>
+                <oldprice>560</oldprice>
+                <price>1499</price>
+                <picture>https://i.ibb.co/n0Ldh0G/image.jpg</picture>
+                <picture>https://i.ibb.co/Trx48Mj/photo-2024-10-07-12-38-41.jpg</picture>
+                <picture>https://i.ibb.co/R2cJP0b/photo-2024-10-07-12-38-44.jpg</picture>
+                <picture>https://i.ibb.co/Jqs4kFr/photo-2024-10-07-12-40-07.jpg</picture> <!-- Замери -->
+                <vendor>Black Wear</vendor>
+                <description>Дуже якісний фліс, тканина мʼяка, приємна, тепла, не кашлатиться, не линяє, костюм мрія🤍</description>
+                <quantity_in_stock>50</quantity_in_stock>
+                <model>#530-SUZ</model>
+                <param name="Розмір">50-52</param>
+                <param name="Колір">Чорний</param>
+                <param name="Обхват грудей">98 см</param>
+                <param name="Обхват талії">86 см</param>
+                <param name="Обхват бедер">112 см</param>
+                <param name="Довжина виробу">64 см</param>
+                <param name="Довжина рукава">47 см</param>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
