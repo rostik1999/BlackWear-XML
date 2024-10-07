@@ -10,30 +10,21 @@
         </categories>
         <offers>
             <offer id="17483" available="true" group_id="666555">
-                <vendorCode>#530-SUZ</vendorCode>
+                <name>Жіночий спортивний костюм Black Wear #594-SUZ - Чорний</name>
+                <vendorCode>#594-SUZ</vendorCode>
                 <currencyId>UAH</currencyId>
                 <categoryId>000111222</categoryId>
                 <oldprice>560</oldprice>
                 <price>1499</price>
-                <picture>https://i.ibb.co/dDFyCBT/IMG-20241007-101832-672.jpg</picture>
-                <picture>https://i.ibb.co/tPvQ03p/IMG-20241007-101832-605.jpg</picture>
-                <picture>https://i.ibb.co/g9b5FS0/IMG-20241007-101832-580.jpg</picture>
-                <picture>https://i.ibb.co/Jtj3rTd/IMG-20241007-101832-039.jpg</picture>
-                <picture>https://i.ibb.co/71fQ5rM/IMG-20241007-101826-997.jpg</picture> <!-- Чёрный цвет -->
-                <picture>https://i.ibb.co/1vBZy1Z/IMG-20241007-101817-634.jpg</picture> <!-- Замеры -->
+                <picture>https://i.ibb.co/n0Ldh0G/image.jpg</picture>
+                <picture>https://i.ibb.co/Trx48Mj/photo-2024-10-07-12-38-41.jpg</picture>
+                <picture>https://i.ibb.co/R2cJP0b/photo-2024-10-07-12-38-44.jpg</picture>
+                <picture>https://i.ibb.co/Jqs4kFr/photo-2024-10-07-12-40-07.jpg</picture>
                 <vendor>Black Wear</vendor>
                 <description><![CDATA[
-                    Дуже якісний фліс, тканина мʼяка, приємна, тепла, не кашлатиться, не линяє, костюм мрія.
-                    <style>
-                        .table,.tbody,.tbody_tr,.thead,.thead_tr{font-size:14px;font-weight:400}
-                        .table,.tbody,.tbody_tr,.thead,.thead_td,.thead_tr{-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:transparent;color:#34404b;font-family:'Open Sans',sans-serif;line-height:23px;border-collapse:separate;border-spacing:0;box-sizing:border-box;outline:0}
-                        .table{max-width:100%;background-color:transparent;border:1px solid #e5e5e5;width:100%;margin:0 0 30px}
-                        .tbody_first-td,.thead_td{border-left:none}
-                        .tbody_tr,.thead_tr{background:#fff;transition:.1s ease-in-out}
-                        .thead_td{text-align:left;vertical-align:top;font-size:11px;font-weight:700;text-transform:uppercase;padding:5px 10px;border-top:none}
-                        .tbody_first-td,.tbody_td{-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:transparent;color:#34404b;font-size:14px;font-family:'Open Sans',sans-serif;font-weight:400;line-height:23px;border-collapse:separate;border-spacing:0;box-sizing:border-box;outline:0;border-top:1px solid #e5e5e5;padding:5px 10px;text-align:left;vertical-align:top}
-                        .tbody_td{border-left:1px solid #e5e5e5}
-                    </style>
+                    Дуже якісний фліс, тканина мʼяка, приємна, тепла, не кашлатиться, не линяє, костюм мрія.<br/><br/>
+                    <strong>Розміри:</strong><br/>
+                    <style>.table,.tbody,.tbody_tr,.thead,.thead_tr{font-size:14px;font-weight:400}.table,.tbody,.tbody_tr,.thead,.thead_td,.thead_tr{-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:transparent;color:#34404b;font-family:'Open Sans',sans-serif;line-height:23px;border-collapse:separate;border-spacing:0;box-sizing:border-box;outline:0}.table{max-width:100%;background-color:transparent;border:1px solid #e5e5e5;width:100%;margin:0 0 30px}.tbody_first-td,.thead_td{border-left:none}.tbody_tr,.thead_tr{background:#fff;transition:.1s ease-in-out}.thead_td{text-align:left;vertical-align:top;font-size:11px;font-weight:700;text-transform:uppercase;padding:5px 10px;border-top:none}.tbody_first-td,.tbody_td{-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:transparent;color:#34404b;font-size:14px;font-family:'Open Sans',sans-serif;font-weight:400;line-height:23px;border-collapse:separate;border-spacing:0;box-sizing:border-box;outline:0;border-top:1px solid #e5e5e5;padding:5px 10px;text-align:left;vertical-align:top}.tbody_td{border-left:1px solid #e5e5e5}</style>
                     <table class="table" cellspacing="0">
                         <thead class="thead">
                             <tr class="thead_tr">
@@ -67,45 +58,105 @@
                             </tr>
                         </tbody>
                     </table>
+                    <table class="table" cellspacing="0">
+                        <thead class="thead">
+                            <tr class="thead_tr">
+                                <td colspan="2" class="thead_td">Заміри (фактичні заміри можуть відрізнятись +- 2 см)</td>
+                            </tr>
+                        </thead>
+                        <tbody class="tbody">
+                            <tr class="tbody_tr">
+                                <td class="tbody_first-td">Розмір</td>
+                                <td class="tbody_td">46-48</td>
+                            </tr>
+                            <tr class="tbody_tr">
+                                <td class="tbody_first-td">Обхват грудей</td>
+                                <td class="tbody_td">96 см</td>
+                            </tr>
+                            <tr class="tbody_tr">
+                                <td class="tbody_first-td">Обхват талії</td>
+                                <td class="tbody_td">84 см</td>
+                            </tr>
+                            <tr class="tbody_tr">
+                                <td class="tbody_first-td">Обхват бедер</td>
+                                <td class="tbody_td">110 см</td>
+                            </tr>
+                            <tr class="tbody_tr">
+                                <td class="tbody_first-td">Довжина виробу</td>
+                                <td class="tbody_td">62 см</td>
+                            </tr>
+                            <tr class="tbody_tr">
+                                <td class="tbody_first-td">Довжина рукава</td>
+                                <td class="tbody_td">46 см</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <table class="table" cellspacing="0">
+                        <thead class="thead">
+                            <tr class="thead_tr">
+                                <td colspan="2" class="thead_td">Заміри (фактичні заміри можуть відрізнятись +- 2 см)</td>
+                            </tr>
+                        </thead>
+                        <tbody class="tbody">
+                            <tr class="tbody_tr">
+                                <td class="tbody_first-td">Розмір</td>
+                                <td class="tbody_td">50-52</td>
+                            </tr>
+                            <tr class="tbody_tr">
+                                <td class="tbody_first-td">Обхват грудей</td>
+                                <td class="tbody_td">100 см</td>
+                            </tr>
+                            <tr class="tbody_tr">
+                                <td class="tbody_first-td">Обхват талії</td>
+                                <td class="tbody_td">88 см</td>
+                            </tr>
+                            <tr class="tbody_tr">
+                                <td class="tbody_first-td">Обхват бедер</td>
+                                <td class="tbody_td">114 см</td>
+                            </tr>
+                            <tr class="tbody_tr">
+                                <td class="tbody_first-td">Довжина виробу</td>
+                                <td class="tbody_td">64 см</td>
+                            </tr>
+                            <tr class="tbody_tr">
+                                <td class="tbody_first-td">Довжина рукава</td>
+                                <td class="tbody_td">48 см</td>
+                            </tr>
+                        </tbody>
+                    </table>
                 ]]></description>
                 <quantity_in_stock>50</quantity_in_stock>
-                <model>#530-SUZ</model>
+                <model>#594-SUZ</model>
                 <param name="Розмір">42-44</param>
                 <param name="Колір">Чорний</param>
             </offer>
             <offer id="17484" available="true" group_id="666555">
-                <vendorCode>#530-SUZ</vendorCode>
+                <name>Жіночий спортивний костюм Black Wear #594-SUZ - Чорний (46-48)</name>
+                <vendorCode>#594-SUZ</vendorCode>
                 <currencyId>UAH</currencyId>
                 <categoryId>000111222</categoryId>
                 <oldprice>560</oldprice>
                 <price>1499</price>
-                <picture>https://i.ibb.co/dDFyCBT/IMG-20241007-101832-672.jpg</picture>
-                <picture>https://i.ibb.co/tPvQ03p/IMG-20241007-101832-605.jpg</picture>
-                <picture>https://i.ibb.co/g9b5FS0/IMG-20241007-101832-580.jpg</picture>
-                <picture>https://i.ibb.co/Jtj3rTd/IMG-20241007-101832-039.jpg</picture>
-                <picture>https://i.ibb.co/71fQ5rM/IMG-20241007-101826-997.jpg</picture> <!-- Чёрный цвет -->
+                <picture>https://i.ibb.co/n0Ldh0G/image.jpg</picture>
                 <vendor>Black Wear</vendor>
-                <description></description>
+                <description><![CDATA[Дуже якісний фліс, тканина мʼяка, приємна, тепла, не кашлатиться, не линяє, костюм мрія.]]></description>
                 <quantity_in_stock>50</quantity_in_stock>
-                <model>#530-SUZ</model>
+                <model>#594-SUZ</model>
                 <param name="Розмір">46-48</param>
                 <param name="Колір">Чорний</param>
             </offer>
             <offer id="17485" available="true" group_id="666555">
-                <vendorCode>#530-SUZ</vendorCode>
+                <name>Жіночий спортивний костюм Black Wear #594-SUZ - Чорний (50-52)</name>
+                <vendorCode>#594-SUZ</vendorCode>
                 <currencyId>UAH</currencyId>
                 <categoryId>000111222</categoryId>
                 <oldprice>560</oldprice>
                 <price>1499</price>
-                <picture>https://i.ibb.co/dDFyCBT/IMG-20241007-101832-672.jpg</picture>
-                <picture>https://i.ibb.co/tPvQ03p/IMG-20241007-101832-605.jpg</picture>
-                <picture>https://i.ibb.co/g9b5FS0/IMG-20241007-101832-580.jpg</picture>
-                <picture>https://i.ibb.co/Jtj3rTd/IMG-20241007-101832-039.jpg</picture>
-                <picture>https://i.ibb.co/71fQ5rM/IMG-20241007-101826-997.jpg</picture> <!-- Чёрный цвет -->
+                <picture>https://i.ibb.co/n0Ldh0G/image.jpg</picture>
                 <vendor>Black Wear</vendor>
-                <description></description>
+                <description><![CDATA[Дуже якісний фліс, тканина мʼяка, приємна, тепла, не кашлатиться, не линяє, костюм мрія.]]></description>
                 <quantity_in_stock>50</quantity_in_stock>
-                <model>#530-SUZ</model>
+                <model>#594-SUZ</model>
                 <param name="Розмір">50-52</param>
                 <param name="Колір">Чорний</param>
             </offer>
