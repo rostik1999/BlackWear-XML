@@ -28,7 +28,6 @@
                 <quantity_in_stock>50</quantity_in_stock>
                 <model>#594-SUZ</model>
                 <param name="Розмір">42-44</param>
-                <param name="Колір">Чорний</param>
             </offer>
             <offer id="17484" available="true" group_id="666555">
                 <name>Жіночий спортивний костюм Black Wear #594-SUZ - Чорний</name>
@@ -43,7 +42,6 @@
                 <quantity_in_stock>50</quantity_in_stock>
                 <model>#594-SUZ</model>
                 <param name="Розмір">46-48</param>
-                <param name="Колір">Чорний</param>
             </offer>
             <offer id="17485" available="true" group_id="666555">
                 <name>Жіночий спортивний костюм Black Wear #594-SUZ - Чорний</name>
@@ -58,18 +56,19 @@
                 <quantity_in_stock>50</quantity_in_stock>
                 <model>#594-SUZ</model>
                 <param name="Розмір">50-52</param>
-                <param name="Колір">Чорний</param>
             </offer>
 
             <!-- Новый товар с разными размерами -->
             <offer id="17501" available="true" group_id="100500">
-                <name>Жіночий костюм на флісі Black Wear</name>
+                <name>Жіночий костюм на флісі Black Wear - Чорний</name>
                 <vendorCode>#AD-849</vendorCode>
                 <currencyId>UAH</currencyId>
                 <categoryId>000111222</categoryId>
                 <oldprice>719</oldprice>
                 <price>1438</price>
                 <picture>https://cdn4.cdn-telegram.org/file/Bzy7_nmxZSvHl67wZQTW6-5odIfj2E9uFn7kGOZvulHJRVGUGGG-dI-eT8L19G1WeiXei-4DMdQiMekwFma6pSiVRBI9hoGa3PBdqQrpHoiTfbhKCz39vzsYpznbAPR_SfCM_SJd-HjJNNWWKbWupT8Txd1FNRPxemYum5YCEEWZlH6HEmFBwD-ATS5yapPr_znNoe_OjeY-Qcym87Xjiw_bEHCc8d9xQ7MDaDr5iWCZdTVGPwnjFqkffpvUeKPWmb4SRiMkd-GSOxfAQ84QmXmXn8xUIwgzRQx0RK20T7xN6Pa5vZ96OR42YVgWrArIev9i59Ij3-YiawmP5jHNZQ.jpg</picture>
+                <picture>https://cdn4.cdn-telegram.org/file/gWOBvVq_u5AXof0hWgE7IPvwRKdBAvacN2I0f8S9ThYinle2A1VFbb9Vqr1MaR2SLUye0BLGdY9699xFL1dMwHAMzDG9JlZRFkD5yp2KAiat3zeQwEy5ZPPsagxK6mxqS-R1y4EjPz_dfzm3BnkY-uCjJ9KFBH-hc2FHLT8Z8wkeNtaWNKIxD8O40x3AXK9zkmRTEFFIsPKsyGF2YboDOnSq1Yy-L_kLSEbx6pSBCtKrRPVd9Dlssjmt2_cBg_7qOygenN9e6QqSKE0RDf-15b0D88bzrJ6mfr8BUDz3QViaaAYcJU7mG4K750LObpsKMm30Q4Lq6Ho90nlgp4ZBkg.jpg</picture>
+                <picture>https://cdn4.cdn-telegram.org/file/pKWBrJgXBEUQLOcKct5n0IHCsRKkksdbncP5qPUJl8uiJLmetVoFkecGRlb2XqxeUAa0ON3WO-SNxBf19eJgujxrC2xgQDPRRCyuP4PmPEnbXc1r21QRUMGdspv12Zb6IfQaaOHVeXa-sUvqgoLjr_6QjDTs9xaAnRisO_SpBH9h5_lw3imNyu9X6PeQXbgBAL85w-CGijbd5KLPbtMdEVlW_nlj6CSFTNTXpvjaVZ2b4_725YeEbawspzAOnWA-QUVS_6nWha7IpaUDeFy_Z9zQEJvcb2GoWe8ZQRGm5GbPOlQczsAabO2sgWjwdXJ1nk08PLUXoCN6no69U50scQ.jpg</picture>
                 <vendor>Black Wear</vendor>
                 <description><![CDATA[
                     Жіночий костюм на флісі Black Wear — чудовий вибір для прохолодної пори року.  
@@ -78,16 +77,17 @@
                 <quantity_in_stock>50</quantity_in_stock>
                 <model>#AD-849</model>
                 <param name="Розмір">42-44</param>
-                <param name="Колір">чорний</param>
             </offer>
             <offer id="17502" available="true" group_id="100500">
-                <name>Жіночий костюм на флісі Black Wear</name>
+                <name>Жіночий костюм на флісі Black Wear - Чорний</name>
                 <vendorCode>#AD-849</vendorCode>
                 <currencyId>UAH</currencyId>
                 <categoryId>000111222</categoryId>
                 <oldprice>719</oldprice>
                 <price>1438</price>
                 <picture>https://cdn4.cdn-telegram.org/file/Bzy7_nmxZSvHl67wZQTW6-5odIfj2E9uFn7kGOZvulHJRVGUGGG-dI-eT8L19G1WeiXei-4DMdQiMekwFma6pSiVRBI9hoGa3PBdqQrpHoiTfbhKCz39vzsYpznbAPR_SfCM_SJd-HjJNNWWKbWupT8Txd1FNRPxemYum5YCEEWZlH6HEmFBwD-ATS5yapPr_znNoe_OjeY-Qcym87Xjiw_bEHCc8d9xQ7MDaDr5iWCZdTVGPwnjFqkffpvUeKPWmb4SRiMkd-GSOxfAQ84QmXmXn8xUIwgzRQx0RK20T7xN6Pa5vZ96OR42YVgWrArIev9i59Ij3-YiawmP5jHNZQ.jpg</picture>
+                <picture>https://cdn4.cdn-telegram.org/file/gWOBvVq_u5AXof0hWgE7IPvwRKdBAvacN2I0f8S9ThYinle2A1VFbb9Vqr1MaR2SLUye0BLGdY9699xFL1dMwHAMzDG9JlZRFkD5yp2KAiat3zeQwEy5ZPPsagxK6mxqS-R1y4EjPz_dfzm3BnkY-uCjJ9KFBH-hc2FHLT8Z8wkeNtaWNKIxD8O40x3AXK9zkmRTEFFIsPKsyGF2YboDOnSq1Yy-L_kLSEbx6pSBCtKrRPVd9Dlssjmt2_cBg_7qOygenN9e6QqSKE0RDf-15b0D88bzrJ6mfr8BUDz3QViaaAYcJU7mG4K750LObpsKMm30Q4Lq6Ho90nlgp4ZBkg.jpg</picture>
+                <picture>https://cdn4.cdn-telegram.org/file/pKWBrJgXBEUQLOcKct5n0IHCsRKkksdbncP5qPUJl8uiJLmetVoFkecGRlb2XqxeUAa0ON3WO-SNxBf19eJgujxrC2xgQDPRRCyuP4PmPEnbXc1r21QRUMGdspv12Zb6IfQaaOHVeXa-sUvqgoLjr_6QjDTs9xaAnRisO_SpBH9h5_lw3imNyu9X6PeQXbgBAL85w-CGijbd5KLPbtMdEVlW_nlj6CSFTNTXpvjaVZ2b4_725YeEbawspzAOnWA-QUVS_6nWha7IpaUDeFy_Z9zQEJvcb2GoWe8ZQRGm5GbPOlQczsAabO2sgWjwdXJ1nk08PLUXoCN6no69U50scQ.jpg</picture>
                 <vendor>Black Wear</vendor>
                 <description><![CDATA[
                     Жіночий костюм на флісі Black Wear — чудовий вибір для прохолодної пори року.  
@@ -96,16 +96,17 @@
                 <quantity_in_stock>50</quantity_in_stock>
                 <model>#AD-849</model>
                 <param name="Розмір">46-48</param>
-                <param name="Колір">чорний</param>
             </offer>
             <offer id="17503" available="true" group_id="100500">
-                <name>Жіночий костюм на флісі Black Wear</name>
+                <name>Жіночий костюм на флісі Black Wear - Чорний</name>
                 <vendorCode>#AD-849</vendorCode>
                 <currencyId>UAH</currencyId>
                 <categoryId>000111222</categoryId>
                 <oldprice>719</oldprice>
                 <price>1438</price>
                 <picture>https://cdn4.cdn-telegram.org/file/Bzy7_nmxZSvHl67wZQTW6-5odIfj2E9uFn7kGOZvulHJRVGUGGG-dI-eT8L19G1WeiXei-4DMdQiMekwFma6pSiVRBI9hoGa3PBdqQrpHoiTfbhKCz39vzsYpznbAPR_SfCM_SJd-HjJNNWWKbWupT8Txd1FNRPxemYum5YCEEWZlH6HEmFBwD-ATS5yapPr_znNoe_OjeY-Qcym87Xjiw_bEHCc8d9xQ7MDaDr5iWCZdTVGPwnjFqkffpvUeKPWmb4SRiMkd-GSOxfAQ84QmXmXn8xUIwgzRQx0RK20T7xN6Pa5vZ96OR42YVgWrArIev9i59Ij3-YiawmP5jHNZQ.jpg</picture>
+                <picture>https://cdn4.cdn-telegram.org/file/gWOBvVq_u5AXof0hWgE7IPvwRKdBAvacN2I0f8S9ThYinle2A1VFbb9Vqr1MaR2SLUye0BLGdY9699xFL1dMwHAMzDG9JlZRFkD5yp2KAiat3zeQwEy5ZPPsagxK6mxqS-R1y4EjPz_dfzm3BnkY-uCjJ9KFBH-hc2FHLT8Z8wkeNtaWNKIxD8O40x3AXK9zkmRTEFFIsPKsyGF2YboDOnSq1Yy-L_kLSEbx6pSBCtKrRPVd9Dlssjmt2_cBg_7qOygenN9e6QqSKE0RDf-15b0D88bzrJ6mfr8BUDz3QViaaAYcJU7mG4K750LObpsKMm30Q4Lq6Ho90nlgp4ZBkg.jpg</picture>
+                <picture>https://cdn4.cdn-telegram.org/file/pKWBrJgXBEUQLOcKct5n0IHCsRKkksdbncP5qPUJl8uiJLmetVoFkecGRlb2XqxeUAa0ON3WO-SNxBf19eJgujxrC2xgQDPRRCyuP4PmPEnbXc1r21QRUMGdspv12Zb6IfQaaOHVeXa-sUvqgoLjr_6QjDTs9xaAnRisO_SpBH9h5_lw3imNyu9X6PeQXbgBAL85w-CGijbd5KLPbtMdEVlW_nlj6CSFTNTXpvjaVZ2b4_725YeEbawspzAOnWA-QUVS_6nWha7IpaUDeFy_Z9zQEJvcb2GoWe8ZQRGm5GbPOlQczsAabO2sgWjwdXJ1nk08PLUXoCN6no69U50scQ.jpg</picture>
                 <vendor>Black Wear</vendor>
                 <description><![CDATA[
                     Жіночий костюм на флісі Black Wear — чудовий вибір для прохолодної пори року.  
@@ -114,7 +115,6 @@
                 <quantity_in_stock>50</quantity_in_stock>
                 <model>#AD-849</model>
                 <param name="Розмір">50-52</param>
-                <param name="Колір">чорний</param>
             </offer>
         </offers>
     </shop>
