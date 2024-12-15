@@ -9,6 +9,7 @@
             <category id="000111222" parentId="54321">Жіночі спортивні костюми</category>
         </categories>
         <offers>
+            <!-- Существующие товары -->
             <offer id="17483" available="true" group_id="666555">
                 <name>Жіночий спортивний костюм Black Wear #594-SUZ - Чорний</name>
                 <vendorCode>#594-SUZ</vendorCode>
@@ -22,108 +23,7 @@
                 <picture>https://i.ibb.co/Jqs4kFr/photo-2024-10-07-12-40-07.jpg</picture>
                 <vendor>Black Wear</vendor>
                 <description><![CDATA[
-                    Дуже якісний фліс, тканина мʼяка, приємна, тепла, не кашлатиться, не линяє, костюм мрія.<br/><br/>
-                    <strong>Розміри:</strong><br/>
-                    <style>.table,.tbody,.tbody_tr,.thead,.thead_tr{font-size:14px;font-weight:400}.table,.tbody,.tbody_tr,.thead,.thead_td,.thead_tr{-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:transparent;color:#34404b;font-family:'Open Sans',sans-serif;line-height:23px;border-collapse:separate;border-spacing:0;box-sizing:border-box;outline:0}.table{max-width:100%;background-color:transparent;border:1px solid #e5e5e5;width:100%;margin:0 0 30px}.tbody_first-td,.thead_td{border-left:none}.tbody_tr,.thead_tr{background:#fff;transition:.1s ease-in-out}.thead_td{text-align:left;vertical-align:top;font-size:11px;font-weight:700;text-transform:uppercase;padding:5px 10px;border-top:none}.tbody_first-td,.tbody_td{-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:transparent;color:#34404b;font-size:14px;font-family:'Open Sans',sans-serif;font-weight:400;line-height:23px;border-collapse:separate;border-spacing:0;box-sizing:border-box;outline:0;border-top:1px solid #e5e5e5;padding:5px 10px;text-align:left;vertical-align:top}.tbody_td{border-left:1px solid #e5e5e5}</style>
-                    <table class="table" cellspacing="0">
-                        <thead class="thead">
-                            <tr class="thead_tr">
-                                <td colspan="2" class="thead_td"><strong>Заміри (фактичні заміри можуть відрізнятись +- 2 см)</strong></td>
-                            </tr>
-                        </thead>
-                        <tbody class="tbody">
-                            <tr class="tbody_tr">
-                                <td class="tbody_first-td"><strong>Розмір</strong></td>
-                                <td class="tbody_td"><strong>42-44</strong></td>
-                            </tr>
-                            <tr class="tbody_tr">
-                                <td class="tbody_first-td">Обхват грудей</td>
-                                <td class="tbody_td">94 см</td>
-                            </tr>
-                            <tr class="tbody_tr">
-                                <td class="tbody_first-td">Обхват талії</td>
-                                <td class="tbody_td">80 см</td>
-                            </tr>
-                            <tr class="tbody_tr">
-                                <td class="tbody_first-td">Обхват бедер</td>
-                                <td class="tbody_td">106 см</td>
-                            </tr>
-                            <tr class="tbody_tr">
-                                <td class="tbody_first-td">Довжина виробу</td>
-                                <td class="tbody_td">60 см</td>
-                            </tr>
-                            <tr class="tbody_tr">
-                                <td class="tbody_first-td">Довжина рукава</td>
-                                <td class="tbody_td">45 см</td>
-                            </tr>
-                        </tbody>
-                    </table>
-                    <table class="table" cellspacing="0">
-                        <thead class="thead">
-                            <tr class="thead_tr">
-                                <td colspan="2" class="thead_td"><strong>Заміри (фактичні заміри можуть відрізнятись +- 2 см)</strong></td>
-                            </tr>
-                        </thead>
-                        <tbody class="tbody">
-                            <tr class="tbody_tr">
-                                <td class="tbody_first-td"><strong>Розмір</strong></td>
-                                <td class="tbody_td"><strong>46-48</strong></td>
-                            </tr>
-                            <tr class="tbody_tr">
-                                <td class="tbody_first-td">Обхват грудей</td>
-                                <td class="tbody_td">96 см</td>
-                            </tr>
-                            <tr class="tbody_tr">
-                                <td class="tbody_first-td">Обхват талії</td>
-                                <td class="tbody_td">84 см</td>
-                            </tr>
-                            <tr class="tbody_tr">
-                                <td class="tbody_first-td">Обхват бедер</td>
-                                <td class="tbody_td">110 см</td>
-                            </tr>
-                            <tr class="tbody_tr">
-                                <td class="tbody_first-td">Довжина виробу</td>
-                                <td class="tbody_td">62 см</td>
-                            </tr>
-                            <tr class="tbody_tr">
-                                <td class="tbody_first-td">Довжина рукава</td>
-                                <td class="tbody_td">46 см</td>
-                            </tr>
-                        </tbody>
-                    </table>
-                    <table class="table" cellspacing="0">
-                        <thead class="thead">
-                            <tr class="thead_tr">
-                                <td colspan="2" class="thead_td"><strong>Заміри (фактичні заміри можуть відрізнятись +- 2 см)</strong></td>
-                            </tr>
-                        </thead>
-                        <tbody class="tbody">
-                            <tr class="tbody_tr">
-                                <td class="tbody_first-td"><strong>Розмір</strong></td>
-                                <td class="tbody_td"><strong>50-52</strong></td>
-                            </tr>
-                            <tr class="tbody_tr">
-                                <td class="tbody_first-td">Обхват грудей</td>
-                                <td class="tbody_td">100 см</td>
-                            </tr>
-                            <tr class="tbody_tr">
-                                <td class="tbody_first-td">Обхват талії</td>
-                                <td class="tbody_td">88 см</td>
-                            </tr>
-                            <tr class="tbody_tr">
-                                <td class="tbody_first-td">Обхват бедер</td>
-                                <td class="tbody_td">114 см</td>
-                            </tr>
-                            <tr class="tbody_tr">
-                                <td class="tbody_first-td">Довжина виробу</td>
-                                <td class="tbody_td">64 см</td>
-                            </tr>
-                            <tr class="tbody_tr">
-                                <td class="tbody_first-td">Довжина рукава</td>
-                                <td class="tbody_td">48 см</td>
-                            </tr>
-                        </tbody>
-                    </table>
+                    Дуже якісний фліс, тканина мʼяка, приємна, тепла, не кашлатиться, не линяє, костюм мрія.
                 ]]></description>
                 <quantity_in_stock>50</quantity_in_stock>
                 <model>#594-SUZ</model>
@@ -159,6 +59,62 @@
                 <model>#594-SUZ</model>
                 <param name="Розмір">50-52</param>
                 <param name="Колір">Чорний</param>
+            </offer>
+
+            <!-- Новый товар с разными размерами -->
+            <offer id="17501" available="true" group_id="100500">
+                <name>Жіночий костюм на флісі Black Wear</name>
+                <vendorCode>#AD-849</vendorCode>
+                <currencyId>UAH</currencyId>
+                <categoryId>000111222</categoryId>
+                <oldprice>719</oldprice>
+                <price>1438</price>
+                <picture>https://cdn4.cdn-telegram.org/file/Bzy7_nmxZSvHl67wZQTW6-5odIfj2E9uFn7kGOZvulHJRVGUGGG-dI-eT8L19G1WeiXei-4DMdQiMekwFma6pSiVRBI9hoGa3PBdqQrpHoiTfbhKCz39vzsYpznbAPR_SfCM_SJd-HjJNNWWKbWupT8Txd1FNRPxemYum5YCEEWZlH6HEmFBwD-ATS5yapPr_znNoe_OjeY-Qcym87Xjiw_bEHCc8d9xQ7MDaDr5iWCZdTVGPwnjFqkffpvUeKPWmb4SRiMkd-GSOxfAQ84QmXmXn8xUIwgzRQx0RK20T7xN6Pa5vZ96OR42YVgWrArIev9i59Ij3-YiawmP5jHNZQ.jpg</picture>
+                <vendor>Black Wear</vendor>
+                <description><![CDATA[
+                    Жіночий костюм на флісі Black Wear — чудовий вибір для прохолодної пори року.  
+                    Виготовлений із турецької трьохнитки на флісі, він забезпечує тепло, комфорт і стиль.
+                ]]></description>
+                <quantity_in_stock>50</quantity_in_stock>
+                <model>#AD-849</model>
+                <param name="Розмір">42-44</param>
+                <param name="Колір">чорний</param>
+            </offer>
+            <offer id="17502" available="true" group_id="100500">
+                <name>Жіночий костюм на флісі Black Wear</name>
+                <vendorCode>#AD-849</vendorCode>
+                <currencyId>UAH</currencyId>
+                <categoryId>000111222</categoryId>
+                <oldprice>719</oldprice>
+                <price>1438</price>
+                <picture>https://cdn4.cdn-telegram.org/file/Bzy7_nmxZSvHl67wZQTW6-5odIfj2E9uFn7kGOZvulHJRVGUGGG-dI-eT8L19G1WeiXei-4DMdQiMekwFma6pSiVRBI9hoGa3PBdqQrpHoiTfbhKCz39vzsYpznbAPR_SfCM_SJd-HjJNNWWKbWupT8Txd1FNRPxemYum5YCEEWZlH6HEmFBwD-ATS5yapPr_znNoe_OjeY-Qcym87Xjiw_bEHCc8d9xQ7MDaDr5iWCZdTVGPwnjFqkffpvUeKPWmb4SRiMkd-GSOxfAQ84QmXmXn8xUIwgzRQx0RK20T7xN6Pa5vZ96OR42YVgWrArIev9i59Ij3-YiawmP5jHNZQ.jpg</picture>
+                <vendor>Black Wear</vendor>
+                <description><![CDATA[
+                    Жіночий костюм на флісі Black Wear — чудовий вибір для прохолодної пори року.  
+                    Виготовлений із турецької трьохнитки на флісі, він забезпечує тепло, комфорт і стиль.
+                ]]></description>
+                <quantity_in_stock>50</quantity_in_stock>
+                <model>#AD-849</model>
+                <param name="Розмір">46-48</param>
+                <param name="Колір">чорний</param>
+            </offer>
+            <offer id="17503" available="true" group_id="100500">
+                <name>Жіночий костюм на флісі Black Wear</name>
+                <vendorCode>#AD-849</vendorCode>
+                <currencyId>UAH</currencyId>
+                <categoryId>000111222</categoryId>
+                <oldprice>719</oldprice>
+                <price>1438</price>
+                <picture>https://cdn4.cdn-telegram.org/file/Bzy7_nmxZSvHl67wZQTW6-5odIfj2E9uFn7kGOZvulHJRVGUGGG-dI-eT8L19G1WeiXei-4DMdQiMekwFma6pSiVRBI9hoGa3PBdqQrpHoiTfbhKCz39vzsYpznbAPR_SfCM_SJd-HjJNNWWKbWupT8Txd1FNRPxemYum5YCEEWZlH6HEmFBwD-ATS5yapPr_znNoe_OjeY-Qcym87Xjiw_bEHCc8d9xQ7MDaDr5iWCZdTVGPwnjFqkffpvUeKPWmb4SRiMkd-GSOxfAQ84QmXmXn8xUIwgzRQx0RK20T7xN6Pa5vZ96OR42YVgWrArIev9i59Ij3-YiawmP5jHNZQ.jpg</picture>
+                <vendor>Black Wear</vendor>
+                <description><![CDATA[
+                    Жіночий костюм на флісі Black Wear — чудовий вибір для прохолодної пори року.  
+                    Виготовлений із турецької трьохнитки на флісі, він забезпечує тепло, комфорт і стиль.
+                ]]></description>
+                <quantity_in_stock>50</quantity_in_stock>
+                <model>#AD-849</model>
+                <param name="Розмір">50-52</param>
+                <param name="Колір">чорний</param>
             </offer>
         </offers>
     </shop>
